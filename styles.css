@@ -1,0 +1,16 @@
+body{
+    /* background-image: url('./design/desktop-preview.jpg'); */
+}
+
+img{
+    height: 250px !important;
+    width: 263px !important;
+    padding: 16px;
+    border-radius: 25px !important;
+}
+
+.card{
+    height: 425px !important;
+    width: 265px !important;
+    border-radius: 20px !important;
+}
